@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "kode": "SMGF",
+    "kategori": "televisi",
+    "nama_produk": "samsung",
+    "deskripsi": "layar datar",
+    "stok": 8
+  },
+  {
+    "id": 2,
+    "kode": "SHR",
+    "kategori": "televisi",
+    "nama_produk": "sharp",
+    "deskripsi": "tv tabung",
+    "stok": 11
+  },
+  {
+    "id": 3,
+    "kode": "SHRF",
+    "kategori": "televisi",
+    "nama_produk": "sharp",
+    "deskripsi": "layar datar",
+    "stok": 20
+  },
+  {
+    "id": 4,
+    "kode": "SON",
+    "kategori": "televisi",
+    "nama_produk": "sony",
+    "deskripsi": "tv tabung",
+    "stok": 10
+  },
+  {
+    "id": 5,
+    "kode": "SONF",
+    "kategori": "televisi",
+    "nama_produk": "sony",
+    "deskripsi": "layar datar",
+    "stok": 17
+  },
+  {
+    "id": 6,
+    "kode": "LGF",
+    "kategori": "televisi",
+    "nama_produk": "lg",
+    "deskripsi": "layar datar",
+    "stok": 14
+  },
+  {
+    "id": 7,
+    "kode": "PSN",
+    "kategori": "televisi",
+    "nama_produk": "panasonic",
+    "deskripsi": "tv tabung",
+    "stok": 7
+  },
+  {
+    "id": 8,
+    "kode": "PSNF",
+    "kategori": "televisi",
+    "nama_produk": "panasonic",
+    "deskripsi": "layar datar",
+    "stok": 13
+  },
+  {
+    "id": 9,
+    "kode": "POL",
+    "kategori": "televisi",
+    "nama_produk": "polytron",
+    "deskripsi": "tv tabung",
+    "stok": 12
+  },
+  {
+    "id": 10,
+    "kode": "POLF",
+    "kategori": "televisi",
+    "nama_produk": "polytron",
+    "deskripsi": "layar datar",
+    "stok": 20
+  },
+  {
+    "id": 11,
+    "kode": "KSM1",
+    "kategori": "kulkas",
+    "nama_produk": "samsung",
+    "deskripsi": "1 pintu",
+    "stok": 5
+  },
+  {
+    "id": 12,
+    "kode": "KSM2",
+    "kategori": "kulkas",
+    "nama_produk": "samsung",
+    "deskripsi": "2 pintu",
+    "stok": 8
+  },
+  {
+    "id": 13,
+    "kode": "KSH1",
+    "kategori": "kulkas",
+    "nama_produk": "sharp",
+    "deskripsi": "1 pintu",
+    "stok": 7
+  },
+  {
+    "id": 14,
+    "kode": "KSH2",
+    "kategori": "kulkas",
+    "nama_produk": "sharp",
+    "deskripsi": "2 pintu",
+    "stok": 3
+  },
+  {
+    "id": 15,
+    "kode": "KLG1",
+    "kategori": "kulkas",
+    "nama_produk": "lg",
+    "deskripsi": "1 pintu",
+    "stok": 9
+  },
+  {
+    "id": 16,
+    "kode": "KLG2",
+    "kategori": "kulkas",
+    "nama_produk": "lg",
+    "deskripsi": "2 pintu",
+    "stok": 12
+  },
+  {
+    "id": 17,
+    "kode": "KPN1",
+    "kategori": "kulkas",
+    "nama_produk": "panasonic",
+    "deskripsi": "1 pintu",
+    "stok": 9
+  },
+  {
+    "id": 18,
+    "kode": "KPN2",
+    "kategori": "kulkas",
+    "nama_produk": "panasonic",
+    "deskripsi": "2 pintu",
+    "stok": 9
+  },
+  {
+    "id": 19,
+    "kode": "SGIN",
+    "kategori": "ac",
+    "nama_produk": "samsung",
+    "deskripsi": "inverter",
+    "stok": 12
+  },
+  {
+    "id": 20,
+    "kode": "PAIN",
+    "kategori": "ac",
+    "nama_produk": "panasonic",
+    "deskripsi": "inverter",
+    "stok": 10
+  },
+  {
+    "id": 21,
+    "kode": "SHIN",
+    "kategori": "ac",
+    "nama_produk": "sharp",
+    "deskripsi": "inverter",
+    "stok": 15
+  },
+  {
+    "id": 22,
+    "kode": "LGIN",
+    "kategori": "ac",
+    "nama_produk": "lg",
+    "deskripsi": "inverter",
+    "stok": 20
+  },
+  {
+    "id": 23,
+    "kode": "SGL",
+    "kategori": "ac",
+    "nama_produk": "samsung",
+    "deskripsi": "standard",
+    "stok": 8
+  },
+  {
+    "id": 24,
+    "kode": "PNL",
+    "kategori": "ac",
+    "nama_produk": "panasonic",
+    "deskripsi": "standard",
+    "stok": 10
+  },
+  {
+    "id": 25,
+    "kode": "POL",
+    "kategori": "ac",
+    "nama_produk": "polytron",
+    "deskripsi": "standard",
+    "stok": 6
+  },
+  {
+    "id": 26,
+    "kode": "SHL",
+    "kategori": "ac",
+    "nama_produk": "sharp",
+    "deskripsi": "standard",
+    "stok": 4
+  },
+  {
+    "id": 27,
+    "kode": "LGL",
+    "kategori": "ac",
+    "nama_produk": "lg",
+    "deskripsi": "standard",
+    "stok": 11
+  },
+  {
+    "id": 28,
+    "kode": "LGL1",
+    "kategori": "ac",
+    "nama_produk": "lg",
+    "deskripsi": "standard",
+    "stok": 8
+  }
+]
